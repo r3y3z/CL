@@ -9,6 +9,8 @@ https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="491" tvg-name="TV Chile" tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png", TV Chile ✪ | CL
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
+#EXTINF:0, TVN Chile
+https://tvn-1-live.nedmedia.io/v1/manifest/072bde06d732942b3508fe16db5d996d70b21ce7/TVN-1-Backup/b5f36ff4-9ec5-405b-b7a2-8c5ed035729a/0.m3u8
 #EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png", TVN ✪ | CL
 https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png", NTV ✪ | CL
