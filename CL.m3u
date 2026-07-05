@@ -123,9 +123,10 @@ https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Musica" tvg-logo="https://telechancho.github.io/tvlogos/MusicTop.jpg" group-title="Música",MusicTop
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-#EXTINF:-1 group-title="Musica" tvg-id="24" tvg-name="Music Top" tvg-logo="https://cdn.m3u.cl/logo/24_Music_Top.png", Music Top | AR
+#EXTINF:-1 group-title="Musica" tvg-id="24" tvg-name="Music Top" tvg-logo="https://cdn.m3u.cl/logo/24_Music_Top.png", Music Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 group-title="Musica" tvg-id="1727" tvg-name="Rewind Music Channel" tvg-logo="https://cdn.m3u.cl/logo/1727_Rewind_Music_Channel.png", Rewind Music Channel
+https://media.streambrothers.com:19360/adxwrggswc/adxwrggswc.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 group-title="Musica" tvg-id="63dac1b78795f300086d5ca6" tvg-name="TikTok Radio en Español" tvg-logo="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/logo.png?fit=fill&fm=png&h=80&w=280",TikTok Radio en Español
