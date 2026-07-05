@@ -5,8 +5,12 @@ https://stream.wapptv.cl/video/index.m3u8?PlaylistM3UCL
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png", La Red ✪ | CL
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="LaRed.cl@SD" tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="General",La Red 2
+https://ds5i0a12qngha.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png", TV+ ✪ | CL
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TVPlus.cl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/960px-TV%2B_%282018%29.png" group-title="General",TV+ (1080p)
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="491" tvg-name="TV Chile" tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png", TV Chile ✪ | CL
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png", TVN ✪ | CL
@@ -91,10 +95,10 @@ https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowi
 https://cloudpro.servidoresdestream.com:8081/8036/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1476" tvg-name="Urban Pro DJ" tvg-logo="https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png", Urban Pro DJ | CL
 https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://cdn.m3u.cl/logo/31_Portal_FoxMix.png", Portal FoxMix ✪ | CL
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="401" tvg-name="Radio Fiessta" tvg-logo="https://cdn.m3u.cl/logo/401_Radio_Fiessta.png", Radio Fiessta | CL
 https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1301" tvg-name="Radioactiva TV" tvg-logo="https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png", Radioactiva TV | CL
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="13 Deportes" tvg-logo="https://s.t13.cl/sites/default/files/t13/componentes/field-componente-logo/deportes13_1.png" group-title="sports", 13 Deportes [CL]
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
 #EXTINF:-1 tvg-name="13 FutGO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/FutGo.svg" group-title="sports", 13 FutGO [CL]
@@ -127,3 +131,12 @@ https://redirector.dps.live/hls/tvr/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR Television Regional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Televisi%C3%B3n_Regional_de_Chile_-_logo.png" group-title="general", TVR Television Regional (3) [CL]
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/DW.png" group-title="Internacionales",DW en Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/RT.png" group-title="Internacionales",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/MusicTop.jpg" group-title="Música",MusicTop
+http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+#EXTINF:-1 tvg-id="MTVRocks.us@LatAm" tvg-logo="https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png" group-title="Entertainment",MTV Rocks
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
+  
