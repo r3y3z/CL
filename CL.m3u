@@ -18,7 +18,7 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png", TVN ✪
 https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8
 #EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png", TVN ✪
-https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?PlaylistM3UCL
+http://190.238.43.117:9000/play/a0g1/index.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png", NTV ✪
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1437" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png", TVN3 ✪
@@ -68,7 +68,7 @@ https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
 #EXTINF:-1 tvg-name="13 FutGO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/FutGo.svg" group-title="sports", 13 FutGO
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
 #EXTINF:-1 tvg-id="1732" tvg-name="CNN Chile" tvg-logo="https://cdn.m3u.cl/logo/1732_CNN_Chile.png", CNN Chile ✪
-https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
+http://190.238.43.117:9000/play/a0g9/index.m3u8
 #EXTINF:-1 tvg-name="Stgo.TV" tvg-logo="https://graph.facebook.com/stgotvchile/picture?width=800&height=800" group-title="general", Stgo.TV
 https://stv4.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png", U Chile TV
@@ -100,12 +100,18 @@ https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&Playl
 #EXTINF:-1 tvg-id="375" tvg-name="Valparaiso Sporting" tvg-logo="https://cdn.m3u.cl/logo/375_Valparaiso_Sporting.png", Valparaiso Sporting
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="Noticias",CNN Chile
+http://190.238.43.117:9000/play/a0g9/index.m3u8
+#EXTINF:-1 group-title="Noticias",CNN Español
+http://190.238.43.117:9000/play/a0eo/index.m3u8
+#EXTINF:-1 group-title="Noticias", CNN Español
+http://181.224.255.210:8001/play/a0q1/index.m3u8
+#EXTINF:-1 group-title="Noticias",CNN International
+http://190.238.43.117:9000/play/a0f6/index.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/DW.png" group-title="Noticias",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/RT.png" group-title="Noticias",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-id="62310d5a5dc9550007c6f580" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/logo.png?fit=fill&fm=png&h=80&w=280",CBS News 24/7
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzMDU0Y2Y3LTQyY2ItNDI0OC04MjQ5LTJhMWIxNTA0NWUxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhNzg3MTIzNC03OGE4LTExZjEtYWU2Ni03MjQ5MDIwNzY1MWYiLCJjbGllbnRJUCI6IjE2MS4yMzguMC4wIiwiY2l0eSI6IlNhbnRpYWdvIiwicG9zdGFsQ29kZSI6IjgzMjAwMDAiLCJjb3VudHJ5IjoiQ0wiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMzMuNDUwMDAwNzYyOTM5NDUsImRldmljZUxvbiI6LTcwLjY1MDAwMTUyNTg3ODksInByZWZlcnJlZExhbmd1YWdlIjoiaXQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEyMi4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMC4wLTExMWIyYjlkYzAwYmQwYmVhOTAzMGIzMDY2MjE1OWVkOWU3YzhiYzYiLCJjbGllbnRJRCI6IjQ0NjY2NmVkLTYyYWMtNGQxMy1hYjZlLWJkY2RlMTVjMzJmZCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL1NhbnRpYWdvIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiNDQ2NjY2ZWQtNjJhYy00ZDEzLWFiNmUtYmRjZGUxNWMzMmZkIiwiZndWY0lEMkNvcHBhIjoiNDQ2NjY2ZWQtNjJhYy00ZDEzLWFiNmUtYmRjZGUxNWMzMmZkIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiI0NDY2NjZlZC02MmFjLTRkMTMtYWI2ZS1iZGNkZTE1YzMyZmQiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDE1LDEwMDIwLDEwMDIxLDEwMDAwLDEwMDA5LDEwMDEzLDEwMDE0LDEwMDE2In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzgzMjgwMTE4NTY4LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TkRRMk5qWTJaV1F0TmpKaFl5MDBaREV6TFdGaU5tVXRZbVJqWkdVeE5XTXpNbVprIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4MzM2NjUxOCwiaWF0IjoxNzgzMjgwMTE4LCJqdGkiOiJkYWE0OGVlNS1iZWRjLTQyZTItYmViZi0xYTY5ZTZlNjRiZjQifQ.yv4xaV52dp_4K-
 #EXTINF:-1 group-title="Noticias" tvg-id="619d59b7cbef25000728221c" tvg-name="Euronews Español" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/logo.png?fit=fill&fm=png&h=80&w=280",Euronews Español
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/619d59b7cbef25000728221c/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzMDU0Y2Y3LTQyY2ItNDI0OC04MjQ5LTJhMWIxNTA0NWUxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhNzg3MTIzNC03OGE4LTExZjEtYWU2Ni03MjQ5MDIwNzY1MWYiLCJjbGllbnRJUCI6IjE2MS4yMzguMC4wIiwiY2l0eSI6IlNhbnRpYWdvIiwicG9zdGFsQ29kZSI6IjgzMjAwMDAiLCJjb3VudHJ5IjoiQ0wiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMzMuNDUwMDAwNzYyOTM5NDUsImRldmljZUxvbiI6LTcwLjY1MDAwMTUyNTg3ODksInByZWZlcnJlZExhbmd1YWdlIjoiaXQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEyMi4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMC4wLTExMWIyYjlkYzAwYmQwYmVhOTAzMGIzMDY2MjE1OWVkOWU3YzhiYzYiLCJjbGllbnRJRCI6IjQ0NjY2NmVkLTYyYWMtNGQxMy1hYjZlLWJkY2RlMTVjMzJmZCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL1NhbnRpYWdvIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiNDQ2NjY2ZWQtNjJhYy00ZDEzLWFiNmUtYmRjZGUxNWMzMmZkIiwiZndWY0lEMkNvcHBhIjoiNDQ2NjY2ZWQtNjJhYy00ZDEzLWFiNmUtYmRjZGUxNWMzMmZkIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiI0NDY2NjZlZC02MmFjLTRkMTMtYWI2ZS1iZGNkZTE1YzMyZmQiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDE1LDEwMDIwLDEwMDIxLDEwMDAwLDEwMDA5LDEwMDEzLDEwMDE0LDEwMDE2In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzgzMjgwMTE4NTY4LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TkRRMk5qWTJaV1F0TmpKaFl5MDBaREV6TFdGaU5tVXRZbVJqWkdVeE5XTXpNbVprIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4MzM2NjUxOCwiaWF0IjoxNzgzMjgwMTE4LCJqdGkiOiJkYWE0OGVlNS1iZWRjLTQyZTItYmViZi0xYTY5ZTZlNjRiZjQifQ.yv4xaV52dp_4K-NiV9fbt_9Hu1LxHvXi8cDefIcuoKM&masterJWTPassthrough=true
 #EXTINF:-1 group-title="Entretenimiento" tvg-id="68224482c5d53e1351aaf2f2" tvg-name="Canal Claro" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/logo.png?fit=fill&fm=png&h=80&w=280",Canal Claro
@@ -113,22 +119,18 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" tvg-chno="37" group-title="News",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title="Musica" tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://cdn.m3u.cl/logo/27_Carolina_TV.png", Carolina TV | CL
+#EXTINF:-1 group-title="Musica" tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://cdn.m3u.cl/logo/27_Carolina_TV.png", Carolina TV
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Musica" tvg-id="1127" tvg-name="Carolina TV 2" tvg-logo="https://cdn.m3u.cl/logo/1127_Carolina_TV_2.png", Carolina TV 2 | CL
+#EXTINF:-1 group-title="Musica" tvg-id="1127" tvg-name="Carolina TV 2" tvg-logo="https://cdn.m3u.cl/logo/1127_Carolina_TV_2.png", Carolina TV 2
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Musica" tvg-id="1550" tvg-name="M Music TV" tvg-logo="https://cdn.m3u.cl/logo/1550_M_Music_TV.png", M Music TV | CL
+#EXTINF:-1 group-title="Musica" tvg-id="1550" tvg-name="M Music TV" tvg-logo="https://cdn.m3u.cl/logo/1550_M_Music_TV.png", M Music TV
 https://cloudpro.servidoresdestream.com:8081/8036/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Musica" tvg-id="1476" tvg-name="Urban Pro DJ" tvg-logo="https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png", Urban Pro DJ | CL
+#EXTINF:-1 group-title="Musica" tvg-id="1476" tvg-name="Urban Pro DJ" tvg-logo="https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png", Urban Pro DJ
 https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Musica" tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://cdn.m3u.cl/logo/31_Portal_FoxMix.png", Portal FoxMix ✪ | CL
+#EXTINF:-1 group-title="Musica" tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://cdn.m3u.cl/logo/31_Portal_FoxMix.png", Portal FoxMix ✪
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Musica" tvg-logo="https://telechancho.github.io/tvlogos/MusicTop.jpg" group-title="Música",MusicTop
-http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1 group-title="Musica" tvg-id="24" tvg-name="Music Top" tvg-logo="https://cdn.m3u.cl/logo/24_Music_Top.png", Music Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Musica" tvg-id="1727" tvg-name="Rewind Music Channel" tvg-logo="https://cdn.m3u.cl/logo/1727_Rewind_Music_Channel.png", Rewind Music Channel
-https://media.streambrothers.com:19360/adxwrggswc/adxwrggswc.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 group-title="Musica" tvg-id="63dac1b78795f300086d5ca6" tvg-name="TikTok Radio en Español" tvg-logo="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/logo.png?fit=fill&fm=png&h=80&w=280",TikTok Radio en Español
@@ -148,8 +150,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 group-title="Música" tvg-id="66a01b52a4ee27000808ea36" tvg-name="MTV Rocks" tvg-logo="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/logo.png?fit=fill&fm=png&h=80&w=280",MTV Rocks
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzMDU0Y2Y3LTQyY2ItNDI0OC04MjQ5LTJhMWIxNTA0NWUxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhNzg3MTIzNC03OGE4LTExZjEtYWU2Ni03MjQ5MDIwNzY1MWYiLCJjbGllbnRJUCI6IjE2MS4yMzguMC4wIiwiY2l0eSI6IlNhbnRpYWdvIiwicG9zdGFsQ29kZSI6IjgzMjAwMDAiLCJjb3VudHJ5IjoiQ0wiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMzMuNDUwMDAwNzYyOTM5NDUsImRldmljZUxvbiI6LTcwLjY1MDAwMTUyNTg3ODksInByZWZlcnJlZExhbmd1YWdlIjoiaXQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEyMi4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMC4wLTExMWIyYjlkYzAwYmQwYmVhOTAzMGIzMDY2MjE1OWVkOWU3YzhiYzYiLCJjbGllbnRJRCI6IjQ0NjY2NmVkLTYyYWMtNGQxMy1hYjZlLWJkY2RlMTVjMzJmZCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL1NhbnRpYWdvIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiNDQ2NjY2ZWQtNjJhYy00ZDEzLWFiNmUtYmRjZGUxNWMzMmZkIiwiZndWY0lEMkNvcHBhIjoiNDQ2NjY2ZWQtNjJhYy00ZDEzLWFiNmUtYmRjZGUxNWMzMmZkIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiI0NDY2NjZlZC02MmFjLTRkMTMtYWI2ZS1iZGNkZTE1YzMyZmQiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDE1LDEwMDIwLDEwMDIxLDEwMDAwLDEwMDA5LDEwMDEzLDEwMDE0LDEwMDE2In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzgzMjgwMTE4NTY4LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TkRRMk5qWTJaV1F0TmpKaFl5MDBaREV6TFdGaU5tVXRZbVJqWkdVeE5XTXpNbVprIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4MzM2NjUxOCwiaWF0IjoxNzgzMjgwMTE4LCJqdGkiOiJkYWE0OGVlNS1iZWRjLTQyZTItYmViZi0xYTY5ZTZlNjRiZjQifQ.yv4xaV52dp_4K-NiV9fbt_9Hu1LxHvXi8cDefIcuoKM&masterJWTPassthrough=true
 
-#EXTINF:-1 tvg-chno=539 tvg-id="deluxe-lounge-hd" tvg-name="Deluxe Lounge HD" group-title="musica",Deluxe Lounge HD
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8
 #EXTINF:-1 tvg-chno=550 tvg-id="that-s-70s" tvg-name="That's 70s" group-title="musica",That's 70s
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 tvg-chno=551 tvg-id="that-s-80s" tvg-name="That's 80s" group-title="musica",That's 80s
@@ -163,14 +163,7 @@ https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1 tvg-chno=558 tvg-id="vevo-pop-90-00-it" tvg-name="Vevo '90s & '00s" group-title="musica",Vevo '90s & '00s
 https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-chno=559 tvg-id="that-s-90s00s" tvg-name="That's 90s00s" group-title="musica",That's 90s00s
-https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-r
-#EXTINF:-1 tvg-chno=541 tvg-id="stingray-greatest-hits" tvg-name="Stingray Greatest Hits" group-title="musica",Stingray Greatest Hits
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-chno=542 tvg-id="stingray-hit-list" tvg-name="Stingray: Hitlist" group-title="musica",Stingray: Hitlist
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-chno=543 tvg-id="stingray-remember-the-80-s" tvg-name="Stingray: Remember the 80’s" group-title="musica",Stingray: Remember the 80’s
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 group-title="South Park" tvg-id="609ae5cd48d3200007b0a98e" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/logo.png?fit=fill&fm=png&h=80&w=280",Comedy Central South Park
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzMDU0Y2Y3LTQyY2ItNDI0OC04MjQ5LTJhMWIxNTA0NWUxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhNzg3MTIzNC03OGE4LTExZjEtYWU2Ni03MjQ5MDIwNzY1MWYiLCJjbGllbnRJUCI6IjE2MS4yMzguMC4wIiwiY2l0eSI6IlNhbnRpYWdvIiwicG9zdGFsQ29kZSI6IjgzMjAwMDAiLCJjb3VudHJ5IjoiQ0wiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMzMuNDUwMDAwNzYyOTM5NDUsImRldmljZUxvbiI6LTcwLjY1MDAwMTUyNTg3ODksInByZWZlcnJlZExhbmd1YWdlIjoiaXQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEyMi4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMC4wLTExMWIyYjlkYzAwYmQwYmVhOTAzMGIzMDY2MjE1OWVkOWU3YzhiYzYiLCJjbGllbnRJRCI6IjQ0NjY2NmVkLTYyYWMtNGQxMy1hYjZlLWJkY2RlMTVjMzJmZCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL1NhbnRpYWdvIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiNDQ2NjY2ZWQtNjJhYy00ZDEzLWFiNmUtYmRjZGUxNWMzMmZkIiwiZndWY0lEMkNvcHBhIjoiNDQ2NjY2ZWQtNjJhYy00ZDEzLWFiNmUtYmRjZGUxNWMzMmZkIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiI0NDY2NjZlZC02MmFjLTRkMTMtYWI2ZS1iZGNkZTE1YzMyZmQiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDE1LDEwMDIwLDEwMDIxLDEwMDAwLDEwMDA5LDEwMDEzLDEwMDE0LDEwMDE2In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzgzMjgwMTE4NTY4LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TkRRMk5qWTJaV1F0TmpKaFl5MDBaREV6TFdGaU5tVXRZbVJqWkdVeE5XTXpNbVprIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4MzM2NjUxOCwiaWF0IjoxNzgzMjgwMTE4LCJqdGkiOiJkYWE0OGVlNS1iZWRjLTQyZTItYmViZi0xYTY5ZTZlNjRiZjQifQ.yv4xaV52dp_4K-NiV9fbt_9Hu1LxHvXi8cDefIcuoKM&masterJWTPassthrough=true
 
@@ -271,12 +264,6 @@ http://190.238.43.117:9000/play/a0ig/index.m3u8
 http://190.238.43.117:9000/play/a0do/index.m3u8
 #EXTINF:-1 group-title="-",CHV HD
 http://190.238.43.117:9000/play/a0g2/index.m3u8
-#EXTINF:-1 group-title="-",CNN Chile
-http://190.238.43.117:9000/play/a0g9/index.m3u8
-#EXTINF:-1 group-title="-",CNN Espaæol
-http://190.238.43.117:9000/play/a0eo/index.m3u8
-#EXTINF:-1 group-title="-",CNN International
-http://190.238.43.117:9000/play/a0f6/index.m3u8
 #EXTINF:-1 group-title="-",CORAZON
 http://190.238.43.117:9000/play/a0iu/index.m3u8
 #EXTINF:-1 group-title="-",CORAZON
@@ -584,8 +571,7 @@ http://190.238.43.117:9000/play/a0dj/index.m3u8
 #EXTINF:-1 group-title="-",ZooMoo
 http://190.238.43.117:9000/play/a0i8/index.m3u8
 
-#EXTINF:-1 group-title="-", CNN Español
-http://181.224.255.210:8001/play/a0q1/index.m3u8
+
 #EXTINF:-1 group-title="-", ESPN3 HD
 http://181.224.255.210:8001/play/a0ps/index.m3u8
 #EXTINF:-1 group-title="-",00  DIRECTV SPORTS
