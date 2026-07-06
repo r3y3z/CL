@@ -223,7 +223,8 @@ http://190.238.43.117:9000/play/a09f/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="-", Canal 2 de San Antonio
+https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="-",TV+
 http://190.238.43.117:9000/play/a0g8/index.m3u8
 #EXTINF:-1 group-title="-",La Red
@@ -536,41 +537,41 @@ http://190.238.43.117:9000/play/a0i9/index.m3u8
 http://190.238.43.117:9000/play/a0dt/index.m3u8
 #EXTINF:-1 group-title="-",Golf Channel HD
 http://190.238.43.117:9000/play/a0hu/index.m3u8
-#EXTINF:-1 group-title="-",HBO HD tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO HD
 http://190.238.43.117:9000/play/a0fn/index.m3u8
-#EXTINF:-1 group-title="-",HBO HD tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO HD
 http://181.224.255.210:8001/play/a0f161/index.m3u8
-#EXTINF:-1 group-title="-",HBO2 HD tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO2 HD
 http://190.238.43.117:9000/play/a0hy/index.m3u8
-#EXTINF:-1 group-title="-",HBO 2 tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO 2
 http://181.224.255.210:8001/play/a0sv/index.m3u8
-#EXTINF:-1 group-title="-",HBO Family HD tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO Family HD
 http://190.238.43.117:9000/play/a0ge/index.m3u8
-#EXTINF:-1 group-title="-",HBO Family HD tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO Family HD
 http://181.224.255.210:8001/play/a0nv/index.m3u8
-#EXTINF:-1 group-title="-",HBO Mundi tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO Mundi
 http://190.238.43.117:9000/play/a0ej/index.m3u8
-#EXTINF:-1 group-title="-",HBO Mundi tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO Mundi
 http://181.224.255.210:8001/play/a0rf/index.m3u8
-#EXTINF:-1 group-title="-",HBO POP tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO POP
 http://181.224.255.210:8001/play/a0on/index.m3u8
-#EXTINF:-1 group-title="-",HBO POP HD tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO POP HD
 http://190.238.43.117:9000/play/a0g5/index.m3u8
-#EXTINF:-1 group-title="-",HBO Plus tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO Plus
 http://190.238.43.117:9000/play/a0dz/index.m3u8
-#EXTINF:-1 group-title="-",HBO Plus HD tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO Plus HD
 http://190.238.43.117:9000/play/a0hz/index.m3u8
-#EXTINF:-1 group-title="-",HBO Plus tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO Plus
 http://181.224.255.210:8001/play/a0qz/index.m3u8
-#EXTINF:-1 group-title="-",HBO Signature tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO Signature
 http://181.224.255.210:8001/play/a0re/index.m3u8
-#EXTINF:-1 group-title="-",HBO Signature tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO Signature
 http://190.238.43.117:9000/play/a0ei/index.m3u8
-#EXTINF:-1 group-title="-",HBO Xtreme HD tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO Xtreme HD
 http://190.238.43.117:9000/play/a0gf/index.m3u8
-#EXTINF:-1 group-title="-",HBO XTREME HD tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO XTREME HD
 http://181.224.255.210:8001/play/a0nw/index.m3u8
-#EXTINF:-1 group-title="-",HBO Xtreme HD tvg-logo="https://logosdown.com/wp-content/uploads/2023/08/hbo-logo.png"
+#EXTINF:-1 group-title="-",HBO Xtreme HD
 http://181.224.255.210:8001/play/a0oo/index.m3u8
 #EXTINF:-1 group-title="-",HEI HD
 http://190.238.43.117:9000/play/a0fg/index.m3u8
