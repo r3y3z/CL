@@ -226,18 +226,38 @@ http://190.238.43.117:9000/play/a09f/index.m3u8
 
 #EXTINF:-1 group-title="-",TV+
 http://190.238.43.117:9000/play/a0g8/index.m3u8
-#EXTINF:-1 tvg-id="LaRed.cl@SD" tvg-logo="https://i.imgur.com/nJOVM6e.png",La Red
+#EXTINF:-1 group-title="-",La Red
 https://ds5i0a12qngha.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 group-title="-", UCV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="-", UCV 2
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="-",TVN HD
 http://190.238.43.117:9000/play/a0g1/index.m3u8
+#EXTINF:-1 group-title="-", TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="-", NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="-", TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="-",MEGA HD
 http://190.238.43.117:9000/play/a0g7/index.m3u8
 #EXTINF:-1 group-title="-",CHV HD
 http://190.238.43.117:9000/play/a0g2/index.m3u8
 #EXTINF:-1 group-title="-",Canal 13 HD
 http://190.238.43.117:9000/play/a0fa/index.m3u8
-#EXTINF:-1 group-title="Noticias",CNN Chile
+#EXTINF:-1 group-title="-",CNN Chile
 http://190.238.43.117:9000/play/a0g9/index.m3u8
+#EXTINF:-1 group-title="-",TVN 24 Horas ✪
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="-", Camara de Diputados
+https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="-", TV Senado
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="-", Teletrak
+https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
+#EXTINF:-1 group-title="-", Valparaiso Sporting
+https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="-",A&E HD
 http://190.238.43.117:9000/play/a0fc/index.m3u8
 #EXTINF:-1 group-title="-",A&E HD
