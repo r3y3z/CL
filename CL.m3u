@@ -662,31 +662,31 @@ https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg0
 
 #EXTINF:-1 group-title="Deportes",TNT Sports Premiun HD
 http://190.238.43.117:9000/play/a0g4/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="DSports" tvg-name="DSports"
+#EXTINF:-1 group-title="Deportes" tvg-id="DSports", DSports
 http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="DSports" tvg-name="DSports"
+#EXTINF:-1 group-title="Deportes" tvg-id="DSports", DSports
 http://148.222.230.201:8000/play/a0pk/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="DSports" tvg-name="DSports"
+#EXTINF:-1 group-title="Deportes" tvg-id="DSports", DSports
 http://148.222.230.197:8000/play/a0mm/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="DSports" tvg-name="DSports"
+#EXTINF:-1 group-title="Deportes" tvg-id="DSports", DSports
 http://181.64.27.65:8000/play/a0dq/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="DSports" tvg-name="DSports"
+#EXTINF:-1 group-title="Deportes" tvg-id="DSports", DSports
 http://38.187.7.252:8000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="DSports" tvg-name="DSports"
+#EXTINF:-1 group-title="Deportes" tvg-id="DSports", DSports
 http://190.223.48.46:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="DSports" tvg-name="DSports"
+#EXTINF:-1 group-title="Deportes" tvg-id="DSports", DSports
 http://191.97.59.33:8000/play/a09t/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="DSports" tvg-name="DSports"
+#EXTINF:-1 group-title="Deportes" tvg-id="DSports", DSports
 http://190.117.20.37:8000/play/a08d/index.m3u
-#EXTINF:-1 group-title="Deportes" tvg-id="DSports" tvg-name="DSports"
+#EXTINF:-1 group-title="Deportes" tvg-id="DSports", DSports
 http://177.53.152.117:8000/play/a07d/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="DSports" tvg-name="DSports"
+#EXTINF:-1 group-title="Deportes" tvg-id="DSports", DSports
 http://8.243.126.131:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="Deportes" group-title="-",00  DIRECTV SPORTS
+#EXTINF:-1 group-title="Deportes" group-title="-", DSports
 http://181.224.255.210:8001/play/a0s8/index.m3u8
-#EXTINF:-1 group-title="Deportes",DSPORTS HD
+#EXTINF:-1 group-title="Deportes",DSPORTS
 http://190.238.43.117:9000/play/a09d/index.m3u8
-#EXTINF:-1 group-title="Deportes",DSPORTS+ HD
+#EXTINF:-1 group-title="Deportes",DSPORTS+
 http://190.238.43.117:9000/play/a09g/index.m3u8
-#EXTINF:-1 group-title="Deportes",DSPORTS2 HD
+#EXTINF:-1 group-title="Deportes",DSPORTS2
 http://190.238.43.117:9000/play/a09f/index.m3u8
