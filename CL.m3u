@@ -67,14 +67,14 @@ https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1684" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png", 13 Viajes
 https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png", U Chile TV
-#EXTINF:-1 tvg-id="53" tvg-name="TV USACH" tvg-logo="https://cdn.m3u.cl/logo/53_TV_USACH.png", TV USACH
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/53_TV_USACH.png" tvg-id="53" tvg-name="TV USACH" tvg-logo="https://cdn.m3u.cl/logo/53_TV_USACH.png", TV USACH
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png" group-title="-", Camara de Diputados
 https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/444_TV_Senado.png" group-title="-", TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="-", Teletrak
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/376_Teletrak.png" group-title="-", Teletrak
 https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/cnn-en-espanol-new-Logo-Vector.svg-.png" group-title="Noticias",CNN Español
