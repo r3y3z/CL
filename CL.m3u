@@ -7,6 +7,8 @@ https://videostream.chileservidores.com:8081/tome/index.m3u8?PlaylistM3UCL
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="-",TV+
 http://190.238.43.117:9000/play/a0g8/index.m3u8
+#EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png", TV+
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1243" tvg-name="TVMas2" tvg-logo="https://cdn.m3u.cl/logo/1243_TVMas2.png", TVMas2
 https://marine2.miplay.cl/tateti/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="-",La Red
