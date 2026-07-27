@@ -269,39 +269,39 @@ http://190.238.43.117:9000/play/a0iq/index.m3u8
 http://190.238.43.117:9000/play/a0et/index.m3u8
 #EXTINF:-1 group-title="-",00 - E! Entertainment TV
 http://181.224.255.210:8001/play/a0q3/index.m3u8
-#EXTINF:-1 group-title="-",00 - ESPN PERU HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-",00 - ESPN PERU
 http://181.224.255.210:8001/play/a0sa/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-",ESPN Premium
 http://190.238.43.117:9000/play/a0gd/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-",ESPN Premium
 http://181.224.255.210:8001/play/a0pt/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-",ESPN
 http://181.224.255.210:8001/play/a0sd/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-",ESPN
 http://190.238.43.117:9000/play/a0d6/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-",ESPN 2
 http://190.238.43.117:9000/play/a0d7/index.m3u8
-#EXTINF:-1 group-title="-",ESPN2 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-",ESPN 2
 http://181.224.255.210:8001/play/a0oj/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-",ESPN 3
 http://190.238.43.117:9000/play/a0fq/index.m3u8
-#EXTINF:-1 group-title="-", ESPN3 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-", ESPN 3
 http://181.224.255.210:8001/play/a0ps/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-",ESPN 4
 http://190.238.43.117:9000/play/a0gv/index.m3u8
-#EXTINF:-1 group-title="-",ESPN4 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-",ESPN 4
 http://181.224.255.210:8001/play/a0og/index.m3u8
-#EXTINF:-1 group-title="-",ESPN5 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-",ESPN 5
 http://181.224.255.210:8001/play/a0pr/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-",ESPN 5
 http://190.238.43.117:9000/play/a0fh/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-",ESPN 6
 http://190.238.43.117:9000/play/a0fb/index.m3u8
-#EXTINF:-1 group-title="-",ESPN6 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-",ESPN 6
 http://181.224.255.210:8001/play/a0eq/index.m3u8
-#EXTINF:-1 group-title="-",ESPN7 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-",ESPN 7
 http://181.224.255.210:8001/play/a0m5/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 7 HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png" group-title="-",ESPN 7
 http://190.238.43.117:9000/play/a0go/index.m3u8
 #EXTINF:-1 group-title="-",ETC
 http://190.238.43.117:9000/play/a0it/index.m3u8
@@ -517,7 +517,7 @@ http://181.224.255.210:8001/play/a0s0/index.m3u8
 http://190.238.43.117:9000/play/a0ee/index.m3u8
 #EXTINF:-1 group-title="-",Pasiones HD
 http://190.238.43.117:9000/play/a0g3/index.m3u8
-#EXTINF:-1 group-title="-",Playboy HD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/1/playboy-tv-logo-png_seeklogo-314680.png" group-title="-",Playboy HD
 http://190.238.43.117:9000/play/a0f5/index.m3u8
 #EXTINF:-1 group-title="-",Playboy HD
 http://181.224.255.210:8001/play/a0lo/index.m3u8
