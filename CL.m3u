@@ -1,46 +1,85 @@
 #EXTM3U 
-#EXTINF:-1 group-title="-", Canal 2 de San Antonio
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/76_Canal_2_de_San_Antonio.png" group-title="-", Canal 2 de San Antonio
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="-",TV+
+#EXTINF:-1 tvg-id="69" tvg-name="G Vision" tvg-logo="https://cdn.m3u.cl/logo/69_G_Vision.png", G Vision
+https://videostream.chileservidores.com:8081/tome/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="421" tvg-name="Bio Bio TV" tvg-logo="https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png", Bio Bio TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="-",TV+
 http://190.238.43.117:9000/play/a0g8/index.m3u8
-#EXTINF:-1 group-title="-",La Red
+#EXTINF:-1 tvg-id="1243" tvg-name="TVMas2" tvg-logo="https://cdn.m3u.cl/logo/1243_TVMas2.png", TVMas2
+https://marine2.miplay.cl/tateti/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="-",La Red
 https://ds5i0a12qngha.cloudfront.net/ts:abr.m3u8
-#EXTINF:-1 group-title="-", UCV
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" group-title="-", UCV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="-", UCV 2
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1152_UCV_2.png" group-title="-", UCV 2
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="-",TVN HD
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="-",TVN HD
 http://190.238.43.117:9000/play/a0g1/index.m3u8
-#EXTINF:-1 group-title="-", TVN3
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="-", TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="-", NTV
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="-", NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="-", TV Chile
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png" group-title="-", TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="-",MEGA HD
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="-",MEGA HD
 http://190.238.43.117:9000/play/a0g7/index.m3u8
-#EXTINF:-1 group-title="-",CHV HD
+#EXTINF:-1 tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title="-",CHV HD
 http://190.238.43.117:9000/play/a0g2/index.m3u8
-#EXTINF:-1 group-title="-",Canal 13 HD
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1733_Canal_13.png" group-title="-",Canal 13 HD
 http://190.238.43.117:9000/play/a0fa/index.m3u8
-#EXTINF:-1 group-title="-",CNN Chile
+#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png", 13 Internacional ✪ | CL
+https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1732_CNN_Chile.png" group-title="-",CNN Chile
 http://190.238.43.117:9000/play/a0g9/index.m3u8
-#EXTINF:-1 group-title="-",TVN 24 Horas ✪
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png" group-title="-",TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="-", Camara de Diputados
+
+#EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png", TVN
+https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="449" tvg-name="Meganoticias" tvg-logo="https://cdn.m3u.cl/logo/449_Meganoticias.png", Meganoticias
+https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1153" tvg-name="CHV Noticias" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV_Noticias.png", CHV Noticias
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1763" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1763_CHV_Deportes.png", CHV Deportes
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1530" tvg-name="13 go" tvg-logo="https://cdn.m3u.cl/logo/1530_13_go.png", 13 go
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png", T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1198" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png", T13 Radio
+#EXTINF:-1 tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png", 13 Cultura
+https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1683" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png", 13 Cocina
+https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1033" tvg-name="13 Pop" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png", 13 Pop
+https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png", 13 Teleseries
+https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1446" tvg-name="13 Festival" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png", 13 Festival
+https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1448" tvg-name="13 Realities" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png", 13 Realities
+https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1684" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png", 13 Viajes
+https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png", U Chile TV
+#EXTINF:-1 tvg-id="53" tvg-name="TV USACH" tvg-logo="https://cdn.m3u.cl/logo/53_TV_USACH.png", TV USACH
+https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png" group-title="-", Camara de Diputados
 https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="-", TV Senado
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/444_TV_Senado.png" group-title="-", TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="-", Teletrak
 https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
-#EXTINF:-1 group-title="-", Valparaiso Sporting
-https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Noticias",CNN Español
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/cnn-en-espanol-new-Logo-Vector.svg-.png" group-title="Noticias",CNN Español
 http://190.238.43.117:9000/play/a0eo/index.m3u8
-#EXTINF:-1 group-title="Noticias", CNN Español
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/cnn-en-espanol-new-Logo-Vector.svg-.png" group-title="Noticias", CNN Español
 http://181.224.255.210:8001/play/a0q1/index.m3u8
-#EXTINF:-1 group-title="Noticias",CNN International
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Noticias",CNN International
 http://190.238.43.117:9000/play/a0f6/index.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/DW.png" group-title="Noticias",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
