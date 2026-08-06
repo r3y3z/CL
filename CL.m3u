@@ -93,6 +93,8 @@ http://190.238.43.117:9000/play/a0f6/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/RT.png" tvg-chno=44 group-title="Noticias",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Chile" tvg-chno=45 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="news", CNN Chile
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno=50 group-title="-",Via X
 http://190.238.43.117:9000/play/a0dk/index.m3u8
@@ -105,7 +107,8 @@ http://190.238.43.117:9000/play/a0dj/index.m3u8
 #EXTINF:-1 tvg-chno=54 group-title="-",ETC
 http://190.238.43.117:9000/play/a0it/index.m3u8
 
-
+#EXTINF:-1 tvg-name="América TV"tvg-chno=99 tvg-logo="https://graph.facebook.com/AmericaTV/picture?width=800&height=800" group-title="news", América TV [AR]
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-chno=100 group-title="-",A&E HD
 http://190.238.43.117:9000/play/a0fc/index.m3u8
 #EXTINF:-1 tvg-chno=101 group-title="-",A&E HD
@@ -865,3 +868,10 @@ http://190.238.43.117:9000/play/a0hu/index.m3u8
 http://190.238.43.117:9000/play/a0f5/index.m3u8
 #EXTINF:-1tvg-chno=801 tvg-logo="https://images.seeklogo.com/logo-png/31/1/playboy-tv-logo-png_seeklogo-314680.png" group-title="-",Playboy HD
 http://181.224.255.210:8001/play/a0lo/index.m3u8
+
+#EXTINF:-1 tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logotipo_de_Mega_%282015-2020%29.svg" group-title="general", Mega (1) [CL]
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logotipo_de_Mega_%282015-2020%29.svg" group-title="general", Mega (2) [CL]
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Meganoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/MegaNoticias2026.png/330px-MegaNoticias2026.png" group-title="news", Meganoticias [CL]
+https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
