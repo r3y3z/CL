@@ -585,6 +585,39 @@ http://181.224.255.210:8001/play/a0r8/index.m3u8
 #EXTINF:-1 tvg-chno=353 group-title="-",39 TV
 http://181.224.255.210:8001/play/axrv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-logo-png_seeklogo-65764.png" tvg-chno=400 group-title="-",HBO
+http://190.238.43.117:9000/play/a0fn/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-logo-png_seeklogo-65764.png" tvg-chno=401 group-title="-",HBO
+http://181.224.255.210:8001/play/a0f161/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-2-logo-png_seeklogo-65766.png" tvg-chno=402 group-title="-",HBO2
+http://190.238.43.117:9000/play/a0hy/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-2-logo-png_seeklogo-65766.png" tvg-chno=403 group-title="-",HBO 2
+http://181.224.255.210:8001/play/a0sv/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-family-logo-png_seeklogo-65768.png" tvg-chno=404 group-title="-",HBO Family
+http://190.238.43.117:9000/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-family-logo-png_seeklogo-65768.png" tvg-chno=405 group-title="-",HBO Family
+http://181.224.255.210:8001/play/a0nv/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" tvg-chno=406 group-title="-",HBO Mundi
+http://190.238.43.117:9000/play/a0ej/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" tvg-chno=407 group-title="-",HBO Mundi
+http://181.224.255.210:8001/play/a0rf/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" tvg-chno=408 group-title="-",HBO POP
+http://181.224.255.210:8001/play/a0on/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" tvg-chno=409 group-title="-",HBO POP
+http://190.238.43.117:9000/play/a0g5/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png" tvg-chno=410 group-title="-",HBO Plus
+http://190.238.43.117:9000/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png" tvg-chno=411 group-title="-",HBO Plus
+http://181.224.255.210:8001/play/a0qz/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-signature-logo-png_seeklogo-65771.png" tvg-chno=412 group-title="-",HBO Signature
+http://181.224.255.210:8001/play/a0re/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-signature-logo-png_seeklogo-65771.png" tvg-chno=413 group-title="-",HBO Signature
+http://190.238.43.117:9000/play/a0ei/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" tvg-chno=414 group-title="-",HBO Xtreme
+http://190.238.43.117:9000/play/a0gf/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" tvg-chno=415 group-title="-",HBO XTREME
+http://181.224.255.210:8001/play/a0nw/index.m3u8
+
 
 #EXTINF:-1 tvg-id="MTVBiggestPop.us@BR" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Music",MTV Biggest Pop (1080p)
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
@@ -680,42 +713,17 @@ https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca@SD" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Music",Stingray Today's Latin Pop (1080p)
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="M2.ua@SD" tvg-logo="https://i.imgur.com/AfcBWCg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",M2 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/330/index.m3u8
+#EXTINF:-1 tvg-id="m2oTV.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png" group-title="Music",m2o TV (1080p)
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-logo-png_seeklogo-65764.png" tvg-chno=400 group-title="-",HBO
-http://190.238.43.117:9000/play/a0fn/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-logo-png_seeklogo-65764.png" tvg-chno=401 group-title="-",HBO
-http://181.224.255.210:8001/play/a0f161/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-2-logo-png_seeklogo-65766.png" tvg-chno=402 group-title="-",HBO2
-http://190.238.43.117:9000/play/a0hy/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-2-logo-png_seeklogo-65766.png" tvg-chno=403 group-title="-",HBO 2
-http://181.224.255.210:8001/play/a0sv/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-family-logo-png_seeklogo-65768.png" tvg-chno=404 group-title="-",HBO Family
-http://190.238.43.117:9000/play/a0ge/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-family-logo-png_seeklogo-65768.png" tvg-chno=405 group-title="-",HBO Family
-http://181.224.255.210:8001/play/a0nv/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" tvg-chno=406 group-title="-",HBO Mundi
-http://190.238.43.117:9000/play/a0ej/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" tvg-chno=407 group-title="-",HBO Mundi
-http://181.224.255.210:8001/play/a0rf/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" tvg-chno=408 group-title="-",HBO POP
-http://181.224.255.210:8001/play/a0on/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" tvg-chno=409 group-title="-",HBO POP
-http://190.238.43.117:9000/play/a0g5/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png" tvg-chno=410 group-title="-",HBO Plus
-http://190.238.43.117:9000/play/a0dz/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png" tvg-chno=411 group-title="-",HBO Plus
-http://181.224.255.210:8001/play/a0qz/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-signature-logo-png_seeklogo-65771.png" tvg-chno=412 group-title="-",HBO Signature
-http://181.224.255.210:8001/play/a0re/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-signature-logo-png_seeklogo-65771.png" tvg-chno=413 group-title="-",HBO Signature
-http://190.238.43.117:9000/play/a0ei/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" tvg-chno=414 group-title="-",HBO Xtreme
-http://190.238.43.117:9000/play/a0gf/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" tvg-chno=415 group-title="-",HBO XTREME
-http://181.224.255.210:8001/play/a0nw/index.m3u8
+
+
 
 
 #EXTINF:-1 group-title="Musica" tvg-id="27" tvg-name="Carolina TV" tvg-chno=500  tvg-logo="https://cdn.m3u.cl/logo/27_Carolina_TV.png", Carolina TV
@@ -740,6 +748,10 @@ https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg0
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/42/1/apple-music-logo-png_seeklogo-426386.png" tvg-chno=510 tvg-id="trace-urban" tvg-name="Trace Urban" group-title="Música",Trace Urban
 https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceLatina.fr@SD" tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="Music",Trace Latina (1080p)
+https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr@InternationalHD" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music",Trace Urban International (1080p)
+https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/vevo-2016-logo-png_seeklogo-306124.png" tvg-chno=511 tvg-id="vevo-pop-it" tvg-name="Vevo Pop" group-title="Música",Vevo Pop
 https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopit-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/vevo-2016-logo-png_seeklogo-306124.png" tvg-chno=512 tvg-id="vevo-pop-90-00-it" tvg-name="Vevo '90s & '00s" group-title="Música",Vevo '90s & '00s
