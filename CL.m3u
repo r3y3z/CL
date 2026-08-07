@@ -814,6 +814,16 @@ https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 
 
+#EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar@SD" tvg-logo="https://i.imgur.com/RO9Dz3X.png" group-title="Music",Quiero Musica en mi Idioma (1080p)
+http://177.234.249.178:8888/MTV/index.m3u
+#EXTINF:-1 tvg-id="TeleHitEstadosUnidos.us@SD" tvg-logo="https://i.imgur.com/AfUdtEG.png" group-title="Music",TeleHit Estados Unidos (720p)
+http://177.234.249.135:8888/Telehit/index.m3u8
+#EXTINF:-1 tvg-id="TelehitMusica.mx@SD" tvg-logo="https://i.imgur.com/CofYjWh.png" group-title="Music",Telehit Musica (1080p)
+http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
+#EXTINF:-1 tvg-id="TelehitMusicaEstadosUnidos.us@SD" tvg-logo="https://i.imgur.com/CofYjWh.png" group-title="Music",Telehit Musica Estados Unidos (720p)
+http://177.234.249.135:8888/TelehitMusica/index.m3u8
+
+
 
 #EXTINF:-1 tvg-chno=528 group-title="-",TELEHIT HD
 http://190.238.43.117:9000/play/a0hm/index.m3u8
