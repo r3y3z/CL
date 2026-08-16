@@ -738,9 +738,9 @@ https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg0
 
 
 
-#EXTINF:-1 tvg-chno=520 group-title="-",MTV HD
+#EXTINF:-1 tvg-chno=520 group-title="-" tvg-logo="https://w7.pngwing.com/pngs/215/247/png-transparent-mtv-hd-hd-logo.png",MTV HD
 http://181.224.255.210:8001/play/a0f9/index.m3u8
-#EXTINF:-1 tvg-chno=521 group-title="-",MTV HD
+#EXTINF:-1 tvg-chno=521 group-title="-" tvg-logo="https://w7.pngwing.com/pngs/215/247/png-transparent-mtv-hd-hd-logo.png",MTV HD
 http://190.238.43.117:9000/play/a0fr/index.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us@LatAm"  tvg-chno=522 tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
 https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
