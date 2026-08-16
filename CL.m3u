@@ -640,15 +640,15 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayCityscapes.ca@HD" tvg-chno=457 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlXPCl4ze9lr2DnadYazKxuyyEEWmgO1O1Q&s" group-title="Music",Stingray Cityscapes
 https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-id="StingrayClassicRock.ca@SD" tvg-chno=458 tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="Music",Stingray Classic Rock (1080p)
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca@SD" tvg-chno=458 tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="Music",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayCozyCafe.ca@HD" tvg-chno=459 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PtqqxxfI0SgHcNO5YJqxdufqnVtPFwpDvQ&s" group-title="Music",Stingray Cozy Cafe (1080p)
+#EXTINF:-1 tvg-id="StingrayCozyCafe.ca@HD" tvg-chno=459 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PtqqxxfI0SgHcNO5YJqxdufqnVtPFwpDvQ&s" group-title="Music",Stingray Cozy Cafe
 https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-id="StingrayDJAZZ.ca@SD" tvg-chno=460 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png" group-title="Music",Stingray DJAZZ (1080p)
+#EXTINF:-1 tvg-id="StingrayDJAZZ.ca@SD" tvg-chno=460 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png" group-title="Music",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayEasyListening.ca@SD" tvg-chno=461 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="Music",Stingray Easy Listening (1080p)
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca@SD" tvg-chno=461 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="Music",Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayGreatestHits.ca@Poland" tvg-chno=462 tvg-logo="" group-title="Music",Stingray Greatest Hits
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca@Poland" tvg-chno=462 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b91ee9d9-43db-4505-bd6b-d76e6544156c/Greatest_hits_RDX_VERT.jpg" group-title="Music",Stingray Greatest Hits
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
 #EXTINF:-1 tvg-id="StingrayGreatestHolidayHits.us@SD" tvg-chno=463 tvg-logo="https://i.imgur.com/Hz2d6og.png" group-title="Music",Stingray Greatest Holiday Hits
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
@@ -704,6 +704,7 @@ https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-s
 #EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us@SD" tvg-chno=496 tvg-logo="https://i.imgur.com/owUXUih.png" group-title="Music",Vevo True School Hip-Hop
 https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 
+
 #EXTINF:-1 group-title="Musica" tvg-id="27" tvg-name="Carolina TV" tvg-chno=500  tvg-logo="https://cdn.m3u.cl/logo/27_Carolina_TV.png", Carolina TV
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Musica" tvg-id="1127" tvg-name="Carolina TV 2" tvg-chno=501  tvg-logo="https://cdn.m3u.cl/logo/1127_Carolina_TV_2.png", Carolina TV 2
@@ -736,32 +737,20 @@ https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist/amg00
 https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="MTVBiggestPop.us@BR" tvg-chno=515 tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Music",MTV Biggest Pop (1080p)
-https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
-#EXTINF:-1 tvg-id="MTVBiggestPop.us@CA" tvg-chno=516 tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Music",MTV Biggest Pop (1080p)
-https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
-#EXTINF:-1 tvg-id="MTVBiggestPop.us@LatAm"  tvg-chno=517 tvg-chno=516 tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Music",MTV Biggest Pop (1080p)
+
+#EXTINF:-1 tvg-chno=520 group-title="-",MTV HD
+http://181.224.255.210:8001/play/a0f9/index.m3u8
+#EXTINF:-1 tvg-chno=521 group-title="-",MTV HD
+http://190.238.43.117:9000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us@LatAm"  tvg-chno=522 tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
 https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
-#EXTINF:-1 tvg-id="MTVBiggestPop.us@US" tvg-chno=518 tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Music",MTV Biggest Pop (1080p)
-https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
-#EXTINF:-1 tvg-id="MTVClassic.us@East" tvg-chno=519 tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="Music",MTV Classic (576p)
-http://40.160.24.53/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="MTVFlowLatino.us@LatAm" tvg-chno=520 tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="Music",MTV Flow Latino (720p)
+#EXTINF:-1 tvg-id="MTVFlowLatino.us@LatAm" tvg-chno=523 tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="Music",MTV Flow Latino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
-#EXTINF:-1 tvg-id="MTVFlowLatino.us@SD" tvg-chno=521 tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="Music",MTV Flow Latino (720p)
-https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
-#EXTINF:-1 tvg-id="MTVLive.us@SD" tvg-chno=522 tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="Music",MTV Live (1080p)
-http://40.160.24.53/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="MTVSpankinNew.us@US" tvg-chno=523 tvg-logo="https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png" group-title="Music",MTV Spankin' New (1080p)
-https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
-#EXTINF:-1 tvg-id="MTVSpankinNew.us@CA" tvg-chno=524 tvg-logo="https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png" group-title="Music",MTV Spankin’ New (1080p)
+#EXTINF:-1 tvg-id="MTVSpankinNew.us@CA" tvg-chno=524 tvg-logo="https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png" group-title="Music",MTV Spankin’ New
 https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
-#EXTINF:-1 tvg-id="Much.ca@SD" tvg-chno=525 tvg-logo="https://i.imgur.com/JjYki5V.png" group-title="Music",Much (720p)
-http://40.160.24.53/MUCH/index.m3u8
-#EXTINF:-1 tvg-id="YoMTV.us@CA" tvg-chno=526 tvg-logo="https://images.pluto.tv/channels/654102ed770cf1000866c307/colorLogoPNG.png" group-title="Music",Yo! MTV (1080p)
+#EXTINF:-1 tvg-id="YoMTV.us@CA" tvg-chno=525 tvg-logo="https://images.pluto.tv/channels/654102ed770cf1000866c307/colorLogoPNG.png" group-title="Music",Yo! MTV (1080p)
 https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
-#EXTINF:-1 tvg-id="YoMTV.us@SD" tvg-chno=527 tvg-logo="https://images.pluto.tv/channels/654102ed770cf1000866c307/colorLogoPNG.png" group-title="Music",Yo! MTV (1080p)
-https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
+
 
 
 #EXTINF:-1 tvg-id="XITE90sThrowback.us@SD" tvg-chno=528 tvg-logo="https://i.imgur.com/vwpOzuz.png" group-title="Music",XITE 90's Throwback
@@ -783,18 +772,15 @@ http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
 
 
 
-#EXTINF:-1 tvg-chno=530 group-title="-",MTV HD
-http://181.224.255.210:8001/play/a0f9/index.m3u8
-#EXTINF:-1 tvg-chno=531 group-title="-",MTV HD
-http://190.238.43.117:9000/play/a0fr/index.m3u8
 
-#EXTINF:-1 tvg-chno=533 group-title="-",Mi Musica  Peru HD
+
+#EXTINF:-1 tvg-chno=535 group-title="-",Mi Musica  Peru HD
 http://190.238.43.117:9000/play/a0hg/index.m3u8
-#EXTINF:-1 tvg-chno=534 group-title="-",Mi Musica  Reggaeton HD
+#EXTINF:-1 tvg-chno=536 group-title="-",Mi Musica  Reggaeton HD
 http://190.238.43.117:9000/play/a0hh/index.m3u8
-#EXTINF:-1 tvg-chno=535 group-title="-",Mi Musica  Salsa HD
+#EXTINF:-1 tvg-chno=537 group-title="-",Mi Musica  Salsa HD
 http://190.238.43.117:9000/play/a0hi/index.m3u8
-#EXTINF:-1 tvg-chno=536 group-title="-",Mi Musica Romantica HD
+#EXTINF:-1 tvg-chno=538 group-title="-",Mi Musica Romantica HD
 http://190.238.43.117:9000/play/a0hf/index.m3u8
 
 
