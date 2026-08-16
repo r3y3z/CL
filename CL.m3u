@@ -90,6 +90,8 @@ http://190.238.43.117:9000/play/a0f6/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/RT.png" tvg-chno=44 group-title="Noticias",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="1732" tvg-name="CNN Chile" tvg-chno=45 tvg-logo="https://cdn.m3u.cl/logo/1732_CNN_Chile.png", CNN Chile
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-chno=50 group-title="-",Via X
