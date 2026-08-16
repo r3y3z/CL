@@ -16,9 +16,9 @@ https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" tvg-chno=8 group-title="-", NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" tvg-chno=9 group-title="-",MEGA HD
-http://190.238.43.117:9000/play/a0g7/index.m3u8
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1243" tvg-name="TVMas2" tvg-chno=10 tvg-logo="https://cdn.m3u.cl/logo/1243_TVMas2.png", TVMas2
-https://marine2.miplay.cl/tateti/playlist.m3u8?PlaylistM3UCL
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" tvg-chno=11  group-title="-",CHV HD
 http://190.238.43.117:9000/play/a0g2/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1732_CNN_Chile.png" tvg-chno=12 group-title="-",CNN Chile
