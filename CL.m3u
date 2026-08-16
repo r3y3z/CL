@@ -6,13 +6,13 @@ https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="458" tvg-chno=3 tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png", TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" tvg-chno=4 group-title="-",La Red
-https://ds5i0a12qngha.cloudfront.net/ts:abr.m3u8
+https://live.getcirca.run/3969875408/ts:abr.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" tvg-chno=5 group-title="-", UCV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1152_UCV_2.png" tvg-chno=6 group-title="-", UCV 2
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" tvg-chno=7  group-title="-",TVN
-http://190.238.43.117:9000/play/a0g1/index.m3u8
+https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" tvg-chno=8 group-title="-", NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" tvg-chno=9 group-title="-",MEGA HD
@@ -35,9 +35,6 @@ https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
 
 
-
-#EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-chno=20 tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png", TVN
-https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" tvg-chno=21 group-title="-", TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png" tvg-chno=22 group-title="-", TV Chile
