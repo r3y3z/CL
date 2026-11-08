@@ -111,93 +111,97 @@ http://190.238.43.117:9000/play/a0it/index.m3u8
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-chno=100 group-title="-",A&E HD
 http://190.238.43.117:9000/play/a0fc/index.m3u8
-#EXTINF:-1 tvg-chno=101 group-title="-",A&E HD
+#EXTINF:-1 tvg-chno=101 group-title="-",A&E HD tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/A%26E_2013.svg/revision/latest?cb=20250722162127"
 http://181.224.255.210:8001/play/a0edfhg/index.m3u8
 #EXTINF:-1 tvg-chno=102 group-title="-",A1 TV
 http://181.224.255.210:8001/play/a0rz/index.m3u8
-#EXTINF:-1 tvg-chno=103 group-title="-",ADULT SWIM HD
+#EXTINF:-1 tvg-chno=103 group-title="-",ADULT SWIM
 http://190.238.43.117:9000/play/a0il/index.m3u8
-#EXTINF:-1 tvg-chno=104 group-title="-",00 - Adult Swim
+#EXTINF:-1 tvg-chno=104 group-title="-",00 - Adult Swim tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Adult_Swim.svg/revision/latest?cb=20201128112724"
 http://181.224.255.210:8001/play/a0q8/index.m3u8
-#EXTINF:-1 tvg-chno=105 group-title="-",3.4 America TV HD
+#EXTINF:-1 tvg-chno=123 group-title="-",Adult Swim tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Adult_Swim.svg/revision/latest?cb=20201128112724"
+http://190.238.43.117:9000/play/a0f0/index.m3u8
+#EXTINF:-1 tvg-chno=105 group-title="-",3.4 America TV
 http://181.224.255.210:8001/play/a0pj/index.m3u8
-#EXTINF:-1 tvg-chno=106 group-title="-",AMC HD
+#EXTINF:-1 tvg-chno=106 group-title="-",AMC
 http://190.238.43.117:9000/play/a0fk/index.m3u8
-#EXTINF:-1 tvg-chno=107 group-title="-",AMC HD
+#EXTINF:-1 tvg-chno=107 group-title="-",AMC tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/AMC_%282019%29.svg/revision/latest?cb=20230222103343"
 http://181.224.255.210:8001/play/a0f7/index.m3u8
-#EXTINF:-1 tvg-chno=108 group-title="-",AMC Series
+#EXTINF:-1 tvg-chno=108 group-title="-",AMC Series tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/AMC_%282019%29.svg/revision/latest?cb=20230222103343"
 http://181.224.255.210:8001/play/a0qn/index.m3u8
-#EXTINF:-1 tvg-chno=109 group-title="-",AMC Series
+#EXTINF:-1 tvg-chno=109 group-title="-",AMC Series tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/AMC_%282019%29.svg/revision/latest?cb=20230222103343"
 http://190.238.43.117:9000/play/a0dq/index.m3u8
 #EXTINF:-1 tvg-chno=110 group-title="-",ATV
 http://181.224.255.210:8001/play/a0r7/index.m3u8
 #EXTINF:-1 tvg-chno=111 group-title="-",ATV
 http://190.238.43.117:9000/play/a0ef/index.m3u8
-#EXTINF:-1 tvg-chno=112 group-title="-",ATV HD
+#EXTINF:-1 tvg-chno=112 group-title="-",ATV
 http://181.224.255.210:8001/play/a0s6/index.m3u8
-#EXTINF:-1 tvg-chno=113 group-title="-",ATV SUR HD
+#EXTINF:-1 tvg-chno=113 group-title="-",ATV SUR
 http://190.238.43.117:9000/play/a0a8/index.m3u8
-#EXTINF:-1 tvg-chno=114 group-title="-",ATV+ HD
+#EXTINF:-1 tvg-chno=114 group-title="-",ATV+
 http://190.238.43.117:9000/play/a09v/index.m3u8
 #EXTINF:-1 tvg-chno=115 group-title="-",ATV MAS
 http://181.224.255.210:8001/play/a0sy/index.m3u8
 #EXTINF:-1 tvg-chno=116 group-title="-",ATV SUR
 http://181.224.255.210:8001/play/a0sn/index.m3u8
-#EXTINF:-1 tvg-chno=117 group-title="-",AXN HD
+#EXTINF:-1 tvg-chno=117 group-title="-",AXN 
 http://190.238.43.117:9000/play/a0gr/index.m3u8
-#EXTINF:-1 tvg-chno=118 group-title="-",AXN HD
+#EXTINF:-1 tvg-chno=118 group-title="-",AXN tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846"
 http://181.224.255.210:8001/play/a0m8/index.m3u8
-#EXTINF:-1 tvg-chno=119 group-title="-",AZ CINEMA HD
+#EXTINF:-1 tvg-chno=119 group-title="-",AZ CINEMA
 http://190.238.43.117:9000/play/a0iy/index.m3u8
 #EXTINF:-1 tvg-chno=120 group-title="-",AZ CLIC
 http://190.238.43.117:9000/play/a0iv/index.m3u8
-#EXTINF:-1 tvg-chno=121 group-title="-",AZ click HD
+#EXTINF:-1 tvg-chno=121 group-title="-",AZ click
 http://190.238.43.117:9000/play/a0hs/index.m3u8
-#EXTINF:-1 tvg-chno=122 group-title="-",AZTECA HD
+#EXTINF:-1 tvg-chno=122 group-title="-",AZTECA
 http://190.238.43.117:9000/play/a0iw/index.m3u8
-#EXTINF:-1 tvg-chno=123 group-title="-",Adult Swim
-http://190.238.43.117:9000/play/a0f0/index.m3u8
-#EXTINF:-1 tvg-chno=124 group-title="-",Animal Planet HD
+#EXTINF:-1 tvg-chno=124 group-title="-",Animal Planet
 http://181.224.255.210:8001/play/a0lz/index.m3u8
-#EXTINF:-1 tvg-chno=125 group-title="-",America TV HD
+#EXTINF:-1 tvg-chno=125 group-title="-",America TV
 http://190.238.43.117:9000/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-chno=126 group-title="-",Antena 3
 http://181.224.255.210:8001/play/a0rc/index.m3u8
-#EXTINF:-1 tvg-chno=127 group-title="-",Atres Series HD
+#EXTINF:-1 tvg-chno=127 group-title="-",Atres Series
 http://190.238.43.117:9000/play/a0fi/index.m3u8
 #EXTINF:-1 tvg-chno=128 group-title="-",Atres Series
 http://181.224.255.210:8001/play/a0rm/index.m3u8
-#EXTINF:-1 tvg-chno=129 group-title="-",BANDAMAX HD
+#EXTINF:-1 tvg-chno=129 group-title="-",BANDAMAX
 http://190.238.43.117:9000/play/a0hj/index.m3u8
-#EXTINF:-1 tvg-chno=130 group-title="-",BETHEL TV
-http://190.238.43.117:9000/play/a0gh/index.m3u8
-#EXTINF:-1 tvg-chno=131 group-title="-",BETHEL
-http://181.224.255.210:8001/play/a0fv/index.m3u8
 #EXTINF:-1 tvg-chno=132 group-title="-",Baby TV 
 http://181.224.255.210:8001/play/a0pz/index.m3u8
 #EXTINF:-1 tvg-chno=133 group-title="-",Baby TV
 http://190.238.43.117:9000/play/a0en/index.m3u8
-#EXTINF:-1 tvg-chno=134 group-title="-",BITME HD
+#EXTINF:-1 tvg-chno=134 group-title="-",BITME
 http://190.238.43.117:9000/play/a0ib/index.m3u8
-#EXTINF:-1 tvg-chno=135 group-title="-",BITT CHANNEL HD
+#EXTINF:-1 tvg-chno=135 group-title="-",BITT CHANNEL
 http://190.238.43.117:9000/play/a0hl/index.m3u8
 #EXTINF:-1 tvg-chno=136 group-title="-",BBC News
 http://181.224.255.210:8001/play/a0ra/index.m3u8
 #EXTINF:-1 tvg-chno=137 group-title="-",CANAL IPE
 http://190.238.43.117:9000/play/a0id/index.m3u8
-#EXTINF:-1 tvg-chno=138 group-title="-",CARIBE TV HD
+#EXTINF:-1 tvg-chno=138 group-title="-",CARIBE TV
 http://190.238.43.117:9000/play/a0hk/index.m3u8
-#EXTINF:-1 tvg-chno=139 group-title="-",CARTOON NETWORK HD
+#EXTINF:-1 tvg-chno=139 group-title="-",CARTOON NETWORK tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754"
 http://190.238.43.117:9000/play/a0hw/index.m3u8
-#EXTINF:-1 tvg-chno=140 group-title="-",CARTOONITO HD
+#EXTINF:-1 tvg-chno=149 group-title="-",Cartoon Network tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754"
+http://190.238.43.117:9000/play/a0fv/index.m3u8
+#EXTINF:-1 tvg-chno=150 group-title="-",Cartoon Network tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754"
+http://181.224.255.210:8001/play/a0py/index.m3u8
+#EXTINF:-1 tvg-chno=151 group-title="-",Cartoonito tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Cartoonito_logo_2021.svg/revision/latest?cb=20211112214721"
+http://190.238.43.117:9000/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-chno=152 group-title="-",Cartoonito tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Cartoonito_logo_2021.svg/revision/latest?cb=20211112214721"
+http://181.224.255.210:8001/play/a0su/index.m3u8
+#EXTINF:-1 tvg-chno=140 group-title="-",CARTOONITO tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Cartoonito_logo_2021.svg/revision/latest?cb=20211112214721"
 http://190.238.43.117:9000/play/a0ig/index.m3u8
-#EXTINF:-1 tvg-chno=141 group-title="-",CCTV-CGTN
+#EXTINF:-1 tvg-chno=141 group-title="-",CCTV-CGTN tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/CCTV_2015.svg/revision/latest?cb=20240321115944"
 http://190.238.43.117:9000/play/a0do/index.m3u8
 #EXTINF:-1 tvg-chno=142 group-title="-",CORAZON
 http://190.238.43.117:9000/play/a0iu/index.m3u8
 #EXTINF:-1 tvg-chno=143 group-title="-",CORAZON
 http://190.238.43.117:9000/play/a0ie/index.m3u8
-#EXTINF:-1 tvg-chno=144 group-title="-",Canal 10 HD
+#EXTINF:-1 tvg-chno=144 group-title="-",Canal 10
 http://190.238.43.117:9000/play/a0i7/index.m3u8
 #EXTINF:-1 tvg-chno=145 group-title="-",Canal 24 Horas
 http://190.238.43.117:9000/play/a0ga/index.m3u8
@@ -207,98 +211,89 @@ http://181.224.255.210:8001/play/a0t0/index.m3u8
 http://190.238.43.117:9000/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-chno=148 group-title="-",CR TV
 http://181.224.255.210:8001/play/a0rt/index.m3u8
-#EXTINF:-1 tvg-chno=149 group-title="-",Cartoon Network HD
-http://190.238.43.117:9000/play/a0fv/index.m3u8
-#EXTINF:-1 tvg-chno=150 group-title="-",Cartoon Network HD
-http://181.224.255.210:8001/play/a0py/index.m3u8
-#EXTINF:-1 tvg-chno=151 group-title="-",Cartoonito
-http://190.238.43.117:9000/play/a0dn/index.m3u8
-#EXTINF:-1 tvg-chno=152 group-title="-",Cartoonito
-http://181.224.255.210:8001/play/a0su/index.m3u8
-#EXTINF:-1 tvg-chno=153 group-title="-",Cine Familiar HD
+#EXTINF:-1 tvg-chno=153 group-title="-",Cine Familiar 
 http://190.238.43.117:9000/play/a0he/index.m3u8
-#EXTINF:-1 tvg-chno=154 group-title="-",Cine Hispano HD
+#EXTINF:-1 tvg-chno=154 group-title="-",Cine Hispano
 http://190.238.43.117:9000/play/a0hd/index.m3u8
-#EXTINF:-1 tvg-chno=155 group-title="-",Cine Premium HD
+#EXTINF:-1 tvg-chno=155 group-title="-",Cine Premium
 http://190.238.43.117:9000/play/a0hc/index.m3u8
-#EXTINF:-1 tvg-chno=156 group-title="-",Cinecanal HD
+#EXTINF:-1 tvg-chno=156 group-title="-",Cinecanal
 http://190.238.43.117:9000/play/a0gm/index.m3u8
-#EXTINF:-1 tvg-chno=157 group-title="-",Cinecanal HD
+#EXTINF:-1 tvg-chno=157 group-title="-",Cinecanal
 http://181.224.255.210:8001/play/a0ob/index.m3u8
-#EXTINF:-1 tvg-chno=158 group-title="-",Cinemax
+#EXTINF:-1 tvg-chno=158 group-title="-",Cinemax 
 http://190.238.43.117:9000/play/a0ep/index.m3u8
-#EXTINF:-1 tvg-chno=159 group-title="-",Cinemax HD
+#EXTINF:-1 tvg-chno=159 group-title="-",Cinemax tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Cinemax_2016.svg/revision/latest?cb=20171203110447"
 http://181.224.255.210:8001/play/a0mk/index.m3u8
-#EXTINF:-1 tvg-chno=160 group-title="-",Comedy Central HD
+#EXTINF:-1 tvg-chno=160 group-title="-",Comedy Central tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Comedy_Central_2018.svg/revision/latest?cb=20251109214436"
 http://181.224.255.210:8001/play/a0ew/index.m3u8
-#EXTINF:-1 tvg-chno=161 group-title="-",Comedy Central HD
+#EXTINF:-1 tvg-chno=161 group-title="-",Comedy Central tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Comedy_Central_2018.svg/revision/latest?cb=20251109214436"
 http://190.238.43.117:9000/play/a0fd/index.m3u8
-#EXTINF:-1 tvg-chno=162 group-title="-",DE PELICULA PLUS HD
+#EXTINF:-1 tvg-chno=162 group-title="-",DE PELICULA PLUS
 http://190.238.43.117:9000/play/a0in/index.m3u8
-#EXTINF:-1 tvg-chno=163 group-title="-",CNN International
+#EXTINF:-1 tvg-chno=163 group-title="-",CNN International tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest?cb=20251028170524"
 http://181.224.255.210:8001/play/a0px/index.m3u8
-#EXTINF:-1 tvg-chno=164 group-title="-",DHE HD
+#EXTINF:-1 tvg-chno=164 group-title="-",DHE 
 http://190.238.43.117:9000/play/a0gc/index.m3u8
-#EXTINF:-1 tvg-chno=165 group-title="-",DHE HD
+#EXTINF:-1 tvg-chno=165 group-title="-",DHE tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/DHE_logo.svg/revision/latest?cb=20240218160318"
 http://181.224.255.210:8001/play/a0nt/index.m3u8
-#EXTINF:-1 tvg-chno=166 group-title="-",DISNEY JR HD
+#EXTINF:-1 tvg-chno=166 group-title="-",DISNEY JR tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018"
 http://190.238.43.117:9000/play/a0ip/index.m3u8
-#EXTINF:-1 tvg-chno=167 group-title="-",DISNEY SUR HD
+#EXTINF:-1 tvg-chno=167 group-title="-",DISNEY tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Disney_Channel_2017.svg/revision/latest?cb=20220617131618"
 http://190.238.43.117:9000/play/a0h9/index.m3u8
-#EXTINF:-1 tvg-chno=168 group-title="-",DISTRITO COMEDIA HD
+#EXTINF:-1 tvg-chno=168 group-title="-",DISTRITO COMEDIA
 http://190.238.43.117:9000/play/a0if/index.m3u8
-#EXTINF:-1 tvg-chno=169 group-title="-",DW Espaæol
+#EXTINF:-1 tvg-chno=169 group-title="-",DW
 http://181.224.255.210:8001/play/a0rj/index.m3u8
-#EXTINF:-1 tvg-chno=170 group-title="-",De PelŦcula
+#EXTINF:-1 tvg-chno=170 group-title="-",De Pelicula
 http://181.224.255.210:8001/play/a0qy/index.m3u8
 #EXTINF:-1 tvg-chno=171 group-title="-",De Pelicula
 http://190.238.43.117:9000/play/a0fz/index.m3u8
-#EXTINF:-1 tvg-chno=172 group-title="-",Discovery Channel  HD
+#EXTINF:-1 tvg-chno=172 group-title="-",Discovery Channel tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203"
 http://190.238.43.117:9000/play/a0gi/index.m3u8
-#EXTINF:-1 tvg-chno=173 group-title="-",Discovery Channel  HD
+#EXTINF:-1 tvg-chno=173 group-title="-",Discovery Channel  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203"
 http://181.224.255.210:8001/play/a0m0/index.m3u8
-#EXTINF:-1 tvg-chno=174 group-title="-",Discovery Kids HD
+#EXTINF:-1 tvg-chno=174 group-title="-",Discovery Kids 
 http://181.224.255.210:8001/play/a0pv/index.m3u8
-#EXTINF:-1 tvg-chno=175 group-title="-",Discovery Kids HD
+#EXTINF:-1 tvg-chno=175 group-title="-",Discovery Kids tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/DKids_2021.svg/revision/latest?cb=20210508171208"
 http://190.238.43.117:9000/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-chno=176 group-title="-",Discovery Science
 http://190.238.43.117:9000/play/a0es/index.m3u8
 #EXTINF:-1 tvg-chno=177 group-title="-",Discovery Science
 http://181.224.255.210:8001/play/a0mo/index.m3u8
-#EXTINF:-1 tvg-chno=178 group-title="-",Discovery Theater HD
+#EXTINF:-1 tvg-chno=178 group-title="-",Discovery Theater 
 http://181.224.255.210:8001/play/a0fc/index.m3u8
-#EXTINF:-1 tvg-chno=179 group-title="-",Discovery Theater HD
+#EXTINF:-1 tvg-chno=179 group-title="-",Discovery Theater tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/2015_Discovery_theater_HD_logo.svg/revision/latest?cb=20180303033620"
 http://190.238.43.117:9000/play/a0g0/index.m3u8
 #EXTINF:-1 tvg-chno=180 group-title="-",Discovery Turbo
 http://181.224.255.210:8001/play/a0q2/index.m3u8
-#EXTINF:-1 tvg-chno=181 group-title="-",Discovery World HD
+#EXTINF:-1 tvg-chno=181 group-title="-",Discovery World
 http://190.238.43.117:9000/play/a0fo/index.m3u8
-#EXTINF:-1 tvg-chno=182 group-title="-",Discovery World HD
+#EXTINF:-1 tvg-chno=182 group-title="-",Discovery World
 http://181.224.255.210:8001/play/a0lt/index.m3u8
 #EXTINF:-1 tvg-chno=183 group-title="-",Disney Channel
 http://190.238.43.117:9000/play/a0gu/index.m3u8
-#EXTINF:-1 tvg-chno=184 group-title="-",Disney Channel HD
+#EXTINF:-1 tvg-chno=184 group-title="-",Disney Channel tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Disney_Channel_2017.svg/revision/latest?cb=20220617131618"
 http://181.224.255.210:8001/play/a0oe/index.m3u8
-#EXTINF:-1 tvg-chno=185 group-title="-",Disney Jr.
+#EXTINF:-1 tvg-chno=185 group-title="-",Disney Jr
 http://181.224.255.210:8001/play/a0ny/index.m3u8
-#EXTINF:-1 tvg-chno=186 group-title="-",Disney Jr.
+#EXTINF:-1 tvg-chno=186 group-title="-",Disney Jr
 http://190.238.43.117:9000/play/a0eq/index.m3u8
 #EXTINF:-1 tvg-chno=187 group-title="-",Distrito Comedia
 http://181.224.255.210:8001/play/a0r2/index.m3u8
-#EXTINF:-1 tvg-chno=188 group-title="-",DreamWorks HD
+#EXTINF:-1 tvg-chno=188 group-title="-",DreamWorks tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/DreamWorks_Animation_2016.svg/revision/latest?cb=20201205013126"
 http://190.238.43.117:9000/play/a0iq/index.m3u8
 #EXTINF:-1 tvg-chno=189 group-title="-",E! Entertainment TV
 http://190.238.43.117:9000/play/a0et/index.m3u8
-#EXTINF:-1 tvg-chno=190 group-title="-",00 - E! Entertainment TV
+#EXTINF:-1 tvg-chno=190 group-title="-",00 - E! Entertainment TV tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/E_2012.svg/revision/latest?cb=20210319230421"
 http://181.224.255.210:8001/play/a0q3/index.m3u8
-
-#EXTINF:-1 tvg-chno=192 group-title="-",El Gourmet HD
+#EXTINF:-1 tvg-chno=192 group-title="-",El Gourmet
 http://190.238.43.117:9000/play/a0fe/index.m3u8
-#EXTINF:-1 tvg-chno=193 group-title="-",El Gourmet HD
+#EXTINF:-1 tvg-chno=193 group-title="-",El Gourmet
 http://181.224.255.210:8001/play/a0ex/index.m3u8
 #EXTINF:-1 tvg-chno=194 group-title="-",Europa Europa
 http://181.224.255.210:8001/play/a0qx/index.m3u8
-#EXTINF:-1 tvg-chno=195 group-title="-",Europa HD
+#EXTINF:-1 tvg-chno=195 group-title="-",Europa
 http://190.238.43.117:9000/play/a0hq/index.m3u8
 #EXTINF:-1 tvg-chno=196 group-title="-",Exitosa TV
 http://190.238.43.117:9000/play/a0e7/index.m3u8
@@ -306,13 +301,13 @@ http://190.238.43.117:9000/play/a0e7/index.m3u8
 http://181.224.255.210:8001/play/a0so/index.m3u8
 #EXTINF:-1 tvg-chno=198 group-title="-",EXITOSA
 http://181.224.255.210:8001/play/a0sm/index.m3u8
-#EXTINF:-1 tvg-chno=199 group-title="-",FX HD
+#EXTINF:-1 tvg-chno=199 group-title="-",FX tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/FX_international_logo.svg/revision/latest?cb=20171205030640"
 http://181.224.255.210:8001/play/a0ge/index.m3u8
-#EXTINF:-1 tvg-chno=200 group-title="-",FX HD
+#EXTINF:-1 tvg-chno=200 group-title="-",FX 
 http://190.238.43.117:9000/play/a0gw/index.m3u8
-#EXTINF:-1 tvg-chno=201 group-title="-",Film & arts HD
+#EXTINF:-1 tvg-chno=201 group-title="-",Film & arts
 http://190.238.43.117:9000/play/a0ho/index.m3u8
-#EXTINF:-1 tvg-chno=202 group-title="-",Film&Arts
+#EXTINF:-1 tvg-chno=202 group-title="-",Film&Arts tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Film_%26_Arts.svg/revision/latest?cb=20191030181426"
 http://190.238.43.117:9000/play/a0dp/index.m3u8
 #EXTINF:-1 tvg-chno=203 group-title="-",Film&Arts
 http://181.224.255.210:8001/play/a0ql/index.m3u8
@@ -324,9 +319,9 @@ http://190.238.43.117:9000/play/a0f2/index.m3u8
 http://190.238.43.117:9000/play/a0ek/index.m3u8
 #EXTINF:-1 tvg-chno=207 group-title="-",France 24
 http://181.224.255.210:8001/play/a0rh/index.m3u8
-#EXTINF:-1 tvg-chno=208 group-title="-",GLOBAL HD
+#EXTINF:-1 tvg-chno=208 group-title="-",GLOBAL
 http://181.224.255.210:8001/play/a0sz/index.m3u8
-#EXTINF:-1 tvg-chno=209 group-title="-",GLOBAL HD
+#EXTINF:-1 tvg-chno=209 group-title="-",GLOBAL
 http://190.238.43.117:9000/play/a0h4/index.m3u8
 #EXTINF:-1 tvg-chno=210 group-title="-",Global
 http://190.238.43.117:9000/play/a0eh/index.m3u8
@@ -340,40 +335,39 @@ http://181.224.255.210:8001/play/a0qv/index.m3u8
 http://181.224.255.210:8001/play/a0qu/index.m3u8
 #EXTINF:-1 tvg-chno=215 group-title="-",Golden Edge
 http://190.238.43.117:9000/play/a0dw/index.m3u8
-#EXTINF:-1 tvg-chno=216 group-title="-",Golden HD
+#EXTINF:-1 tvg-chno=216 group-title="-",Golden
 http://181.224.255.210:8001/play/a0qg/index.m3u8
-#EXTINF:-1 tvg-chno=217 group-title="-",Golden HD
+#EXTINF:-1 tvg-chno=217 group-title="-",Golden
 http://190.238.43.117:9000/play/a0dm/index.m3u8
-#EXTINF:-1 tvg-chno=218 group-title="-",Golden Premiere 2 HD
+#EXTINF:-1 tvg-chno=218 group-title="-",Golden Premiere 2
 http://190.238.43.117:9000/play/a0ia/index.m3u8
-#EXTINF:-1 tvg-chno=219 group-title="-",Golden Premiere HD
+#EXTINF:-1 tvg-chno=219 group-title="-",Golden Premiere
 http://190.238.43.117:9000/play/a0i9/index.m3u8
-
-#EXTINF:-1 tvg-chno=222 group-title="-",HEI HD
+#EXTINF:-1 tvg-chno=222 group-title="-",HEI
 http://190.238.43.117:9000/play/a0fg/index.m3u8
-#EXTINF:-1 tvg-chno=223 group-title="-",HEI HD
+#EXTINF:-1 tvg-chno=223 group-title="-",HEI
 http://181.224.255.210:8001/play/a0sg/index.m3u8
 #EXTINF:-1 tvg-chno=224 group-title="-",HGTV
 http://181.224.255.210:8001/play/a0mp/index.m3u8
 #EXTINF:-1 tvg-chno=225 group-title="-",HGTV
 http://190.238.43.117:9000/play/a0ew/index.m3u8
-#EXTINF:-1 tvg-chno=226 group-title="-",HOLA TV HD
+#EXTINF:-1 tvg-chno=226 group-title="-",HOLA TV
 http://190.238.43.117:9000/play/a0gn/index.m3u8
 #EXTINF:-1 tvg-chno=227 group-title="-",HTV
 http://190.238.43.117:9000/play/a0dr/index.m3u8
-#EXTINF:-1 tvg-chno=228 group-title="-",HTV HD
+#EXTINF:-1 tvg-chno=228 group-title="-",HTV
 http://190.238.43.117:9000/play/a0ik/index.m3u8
 #EXTINF:-1 tvg-chno=229 group-title="-",HTV
 http://181.224.255.210:8001/play/a0qo/index.m3u8
-#EXTINF:-1 tvg-chno=230 group-title="-",History Channel HD
+#EXTINF:-1 tvg-chno=230 group-title="-",History Channel tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest?cb=20240302050750"
 http://190.238.43.117:9000/play/a0gj/index.m3u8
-#EXTINF:-1 tvg-chno=231 group-title="-",History Channel HD
+#EXTINF:-1 tvg-chno=231 group-title="-",History Channel
 http://181.224.255.210:8001/play/a0m1/index.m3u8
 #EXTINF:-1 tvg-chno=232 group-title="-",History 2
 http://181.224.255.210:8001/play/a0qh/index.m3u8
-#EXTINF:-1 tvg-chno=233 group-title="-",Home & Health HD
+#EXTINF:-1 tvg-chno=233 group-title="-",Home & Health
 http://181.224.255.210:8001/play/a0st/index.m3u8
-#EXTINF:-1 tvg-chno=234 group-title="-",Home & Health HD
+#EXTINF:-1 tvg-chno=234 group-title="-",Home & Health
 http://190.238.43.117:9000/play/a0fw/index.m3u8
 #EXTINF:-1 tvg-chno=235 group-title="-",ID HD
 http://190.238.43.117:9000/play/a0gs/index.m3u8
@@ -383,24 +377,24 @@ http://181.224.255.210:8001/play/a0m9/index.m3u8
 http://181.224.255.210:8001/play/a0sx/index.m3u8
 #EXTINF:-1 tvg-chno=238 group-title="-",KARIBEÑA
 http://190.238.43.117:9000/play/a0j1/index.m3u8
-#EXTINF:-1 tvg-chno=239 group-title="-",Kanal D Drama
+#EXTINF:-1 tvg-chno=239 group-title="-",Kanal D Drama tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/4694.svg/revision/latest?cb=20260904105940"
 http://190.238.43.117:9000/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-chno=240 group-title="-",Kanal D Drama
 http://181.224.255.210:8001/play/a0sq/index.m3u8
-#EXTINF:-1 tvg-chno=241 group-title="-",14.2 - LIGA UNO HD
+#EXTINF:-1 tvg-chno=241 group-title="-",14.2 - LIGA UNO
 http://181.224.255.210:8001/play/a0sf/index.m3u8
 
-#EXTINF:-1 tvg-chno=244 group-title="-",LA TELE HD
+#EXTINF:-1 tvg-chno=244 group-title="-",LA TELE
 http://190.238.43.117:9000/play/a09w/index.m3u8
-#EXTINF:-1 tvg-chno=245 group-title="-",LIFETIME HD
+#EXTINF:-1 tvg-chno=245 group-title="-",LIFETIME
 http://190.238.43.117:9000/play/a0ij/index.m3u8
-#EXTINF:-1 tvg-chno=246 group-title="-",Las Estrellas HD
+#EXTINF:-1 tvg-chno=246 group-title="-",Las Estrellas
 http://181.224.255.210:8001/play/a0se/index.m3u8
-#EXTINF:-1 tvg-chno=247 group-title="-",Las Estrellas HD
+#EXTINF:-1 tvg-chno=247 group-title="-",Las Estrellas
 http://190.238.43.117:9000/play/a0gb/index.m3u8
-#EXTINF:-1 tvg-chno=248 group-title="-",Latina HD
+#EXTINF:-1 tvg-chno=248 group-title="-",Latina tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Latina_logo_2024.svg/revision/latest?cb=20250810124944"
 http://190.238.43.117:9000/play/a0dh/index.m3u8
-#EXTINF:-1 tvg-chno=249 group-title="-",4.1 Latina HD
+#EXTINF:-1 tvg-chno=249 group-title="-",4.1 Latina tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Latina_logo_2024.svg/revision/latest?cb=20250810124944"
 http://181.224.255.210:8001/play/a0pk/index.m3u8
 #EXTINF:-1 tvg-chno=250 group-title="-",Lifetime
 http://190.238.43.117:9000/play/a0ey/index.m3u8
@@ -410,10 +404,9 @@ http://181.224.255.210:8001/play/a0q6/index.m3u8
 http://190.238.43.117:9000/play/a0eb/index.m3u8
 #EXTINF:-1 tvg-chno=253 group-title="-",Love Nature
 http://181.224.255.210:8001/play/a0sr/index.m3u8
-
-#EXTINF:-1 tvg-chno=262 group-title="-",NATIVA HD
+#EXTINF:-1 tvg-chno=262 group-title="-",NATIVA
 http://190.238.43.117:9000/play/a0ic/index.m3u8
-#EXTINF:-1 tvg-chno=263 group-title="-",NICK JR HD
+#EXTINF:-1 tvg-chno=263 group-title="-",NICK JR
 http://190.238.43.117:9000/play/a0io/index.m3u8
 #EXTINF:-1 tvg-chno=264 group-title="-",Nick Jr
 http://181.224.255.210:8001/play/a0mm/index.m3u8
@@ -421,15 +414,15 @@ http://181.224.255.210:8001/play/a0mm/index.m3u8
 http://190.238.43.117:9000/play/a0ed/index.m3u8
 #EXTINF:-1 tvg-chno=266 group-title="-",Nick Music
 http://181.224.255.210:8001/play/a0qj/index.m3u8
-#EXTINF:-1 tvg-chno=267 group-title="-",Nat Geo HD
+#EXTINF:-1 tvg-chno=267 group-title="-",Nat Geo
 http://190.238.43.117:9000/play/a0gk/index.m3u8
-#EXTINF:-1 tvg-chno=268 group-title="-",Nat Geo HD
+#EXTINF:-1 tvg-chno=268 group-title="-",Nat Geo
 http://181.224.255.210:8001/play/a0m2/index.m3u8
-#EXTINF:-1 tvg-chno=269 group-title="-",Nick HD
+#EXTINF:-1 tvg-chno=269 group-title="-",Nick
 http://181.224.255.210:8001/play/a0fm/index.m3u8
-#EXTINF:-1 tvg-chno=270 group-title="-",Nickelodeon HD
+#EXTINF:-1 tvg-chno=270 group-title="-",Nickelodeon
 http://190.238.43.117:9000/play/a0g6/index.m3u8
-#EXTINF:-1 tvg-chno=271 group-title="-",Nickelodeon HD
+#EXTINF:-1 tvg-chno=271 group-title="-",Nickelodeon
 http://181.224.255.210:8001/play/a0ol/index.m3u8
 #EXTINF:-1 tvg-chno=272 group-title="-",Nuestra Tele
 http://181.224.255.210:8001/play/a0qi/index.m3u8
@@ -439,63 +432,61 @@ http://190.238.43.117:9000/play/a0e2/index.m3u8
 http://181.224.255.210:8001/play/a0r4/index.m3u8
 #EXTINF:-1 tvg-chno=275 group-title="-",POPU TV
 http://181.224.255.210:8001/play/a0sh/index.m3u8
-#EXTINF:-1 tvg-chno=276 group-title="-",PASIONES HD
+#EXTINF:-1 tvg-chno=276 group-title="-",PASIONES
 http://190.238.43.117:9000/play/a0i5/index.m3u8
-#EXTINF:-1 tvg-chno=277 group-title="-",3.3 - PANAMERICANA HD
+#EXTINF:-1 tvg-chno=277 group-title="-",3.3 - PANAMERICANA
 http://181.224.255.210:8001/play/a0s5/index.m3u8
 #EXTINF:-1 tvg-chno=278 group-title="-",Panamericana
 http://181.224.255.210:8001/play/a0r6/index.m3u8
-#EXTINF:-1 tvg-chno=279 group-title="-",Pasiones HD
+#EXTINF:-1 tvg-chno=279 group-title="-",Pasiones
 http://181.224.255.210:8001/play/a0s0/index.m3u8
 #EXTINF:-1 tvg-chno=280 group-title="-",Panamericana
 http://190.238.43.117:9000/play/a0ee/index.m3u8
-#EXTINF:-1 tvg-chno=281 group-title="-",Pasiones HD
+#EXTINF:-1 tvg-chno=281 group-title="-",Pasiones
 http://190.238.43.117:9000/play/a0g3/index.m3u8
 #EXTINF:-1 tvg-chno=282 group-title="-",Plim Plim TV
 http://190.238.43.117:9000/play/a0e4/index.m3u8
 #EXTINF:-1 tvg-chno=283 group-title="-",RAI Italia
 http://190.238.43.117:9000/play/a0f9/index.m3u8
-#EXTINF:-1 tvg-chno=284 group-title="-",REYNO INFALTIN HD
+#EXTINF:-1 tvg-chno=284 group-title="-",REYNO INFALTIN
 http://190.238.43.117:9000/play/a0ir/index.m3u8
 #EXTINF:-1 tvg-chno=285 group-title="-",RPP
 http://190.238.43.117:9000/play/a0eg/index.m3u8
-#EXTINF:-1 tvg-chno=286 group-title="-",SOL TV HD
+#EXTINF:-1 tvg-chno=286 group-title="-",SOL TV
 http://190.238.43.117:9000/play/a0i6/index.m3u8
 #EXTINF:-1 tvg-chno=287 group-title="-",Sony HD
 http://190.238.43.117:9000/play/a0gp/index.m3u8
 #EXTINF:-1 tvg-chno=288 group-title="-",Sony Movies
 http://190.238.43.117:9000/play/a0f8/index.m3u8
-#EXTINF:-1 tvg-chno=289 group-title="-",Sony Movies HD
+#EXTINF:-1 tvg-chno=289 group-title="-",Sony Movies
 http://190.238.43.117:9000/play/a0hr/index.m3u8
-#EXTINF:-1 tvg-chno=290 group-title="-",Sony HD
+#EXTINF:-1 tvg-chno=290 group-title="-",Sony
 http://181.224.255.210:8001/play/a0oc/index.m3u8
-#EXTINF:-1 tvg-chno=291 group-title="-",Space HD
+#EXTINF:-1 tvg-chno=291 group-title="-",Space
 http://181.224.255.210:8001/play/a0ma/index.m3u8
-#EXTINF:-1 tvg-chno=292 group-title="-",Space HD
+#EXTINF:-1 tvg-chno=292 group-title="-",Space
 http://190.238.43.117:9000/play/a0gt/index.m3u8
-#EXTINF:-1 tvg-chno=293 group-title="-",Star TVE HD
+#EXTINF:-1 tvg-chno=293 group-title="-",Star TVE
 http://190.238.43.117:9000/play/a0ht/index.m3u8
-#EXTINF:-1 tvg-chno=294 group-title="-",Star Channel HD
+#EXTINF:-1 tvg-chno=294 group-title="-",Star Channel tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest?cb=20230106025850"
 http://181.224.255.210:8001/play/a0oh/index.m3u8
-#EXTINF:-1 tvg-chno=295 group-title="-",Star Channel HD
+#EXTINF:-1 tvg-chno=295 group-title="-",Star Channel 
 http://190.238.43.117:9000/play/a0gx/index.m3u8
-#EXTINF:-1 tvg-chno=296 group-title="-",Star Channel HD
-http://181.224.255.210:8001/play/a0oh/index.m3u8
-#EXTINF:-1 tvg-chno=297 group-title="-",00 - Stingray Concerts HD
+#EXTINF:-1 tvg-chno=297 group-title="-",00 - Stingray Concerts
 http://181.224.255.210:8001/play/a0pu/index.m3u8
-#EXTINF:-1 tvg-chno=298 group-title="-",Stingray Concerts HD
+#EXTINF:-1 tvg-chno=298 group-title="-",Stingray Concerts
 http://190.238.43.117:9000/play/a0de/index.m3u8
-#EXTINF:-1 tvg-chno=299 group-title="-",Studio Universal HD
+#EXTINF:-1 tvg-chno=299 group-title="-",Studio Universal
 http://181.224.255.210:8001/play/a0sc/index.m3u8
-#EXTINF:-1 tvg-chno=300 group-title="-",Studio Universal HD
+#EXTINF:-1 tvg-chno=300 group-title="-",Studio Universal
 http://181.224.255.210:8001/play/a0sc/index.m3u8
-#EXTINF:-1 tvg-chno=301 group-title="-",Studio Universal HD
+#EXTINF:-1 tvg-chno=301 group-title="-",Studio Universal
 http://190.238.43.117:9000/play/a0d8/index.m3u8
 #EXTINF:-1 tvg-chno=302 group-title="-",SUMAC
 http://181.224.255.210:8001/play/a0rs/index.m3u8
-#EXTINF:-1 tvg-chno=303 group-title="-",Sun Channel HD
+#EXTINF:-1 tvg-chno=303 group-title="-",Sun Channel
 http://190.238.43.117:9000/play/a0gg/index.m3u8
-#EXTINF:-1 tvg-chno=304 group-title="-",Sun Channel HD
+#EXTINF:-1 tvg-chno=304 group-title="-",Sun Channel
 http://181.224.255.210:8001/play/a0nx/index.m3u8
 #EXTINF:-1 tvg-chno=305 group-title="-",00 - Telefe
 http://181.224.255.210:8001/play/a0q5/index.m3u8
@@ -504,13 +495,13 @@ http://181.224.255.210:8001/play/a0qw/index.m3u8
 #EXTINF:-1 tvg-chno=307 group-title="-",TCM
 http://190.238.43.117:9000/play/a0dy/index.m3u8
 
-#EXTINF:-1 tvg-chno=310 group-title="-",TELEMUNDO HD
+#EXTINF:-1 tvg-chno=310 group-title="-",TELEMUNDO tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Telemundo_Internacional_2018.svg/revision/latest?cb=20210104235725"
 http://190.238.43.117:9000/play/a0i4/index.m3u8
 #EXTINF:-1 tvg-chno=311 group-title="-",Telemundo
 http://181.224.255.210:8001/play/a0ot/index.m3u8
 #EXTINF:-1 tvg-chno=312 group-title="-",Tlnovelas 
 http://181.224.255.210:8001/play/a0qm/index.m3u8
-#EXTINF:-1 tvg-chno=313 group-title="-",TELENOVELAS HD
+#EXTINF:-1 tvg-chno=313 group-title="-",TELENOVELAS
 http://190.238.43.117:9000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-chno=314 group-title="-",TELE LIMA
 http://181.224.255.210:8001/play/a0rp/index.m3u8
@@ -520,15 +511,15 @@ http://181.224.255.210:8001/play/a0mn/index.m3u8
 http://190.238.43.117:9000/play/a0er/index.m3u8
 #EXTINF:-1 tvg-chno=317 group-title="-",TNT HD
 http://190.238.43.117:9000/play/a0gl/index.m3u8
-#EXTINF:-1 tvg-chno=318 group-title="-",TNT Novelas HD
+#EXTINF:-1 tvg-chno=318 group-title="-",TNT Novelas
 http://190.238.43.117:9000/play/a0fp/index.m3u8
 #EXTINF:-1 tvg-chno=319 group-title="-",TNT HD
 http://181.224.255.210:8001/play/a0oa/index.m3u8
-#EXTINF:-1 tvg-chno=320 group-title="-",TNT Novelas HD
+#EXTINF:-1 tvg-chno=320 group-title="-",TNT Novelas
 http://181.224.255.210:8001/play/a0lv/index.m3u8
-#EXTINF:-1 tvg-chno=321 group-title="-",TNT Series HD
+#EXTINF:-1 tvg-chno=321 group-title="-",TNT Series
 http://190.238.43.117:9000/play/a0fl/index.m3u8
-#EXTINF:-1 tvg-chno=322 group-title="-",TNT Series HD
+#EXTINF:-1 tvg-chno=322 group-title="-",TNT Series
 http://181.224.255.210:8001/play/a0ls/index.m3u8
 #EXTINF:-1 tvg-chno=323 group-title="-",TV Peru
 http://181.224.255.210:8001/play/a0ss/index.m3u8
@@ -542,7 +533,7 @@ http://181.224.255.210:8001/play/a0q9/index.m3u8
 http://181.224.255.210:8001/play/a0qk/index.m3u8
 #EXTINF:-1 tvg-chno=328 group-title="-",Telemundo
 http://190.238.43.117:9000/play/a0eu/index.m3u8
-#EXTINF:-1 tvg-chno=329 group-title="-",Telemundo HD
+#EXTINF:-1 tvg-chno=329 group-title="-",Telemundo
 http://190.238.43.117:9000/play/a0hp/index.m3u8
 #EXTINF:-1 tvg-chno=330 group-title="-",Telesur
 http://190.238.43.117:9000/play/a0e9/index.m3u8
@@ -552,9 +543,9 @@ http://190.238.43.117:9000/play/a0fy/index.m3u8
 http://190.238.43.117:9000/play/a0ev/index.m3u8
 #EXTINF:-1 tvg-chno=333 group-title="-",Tooncast
 http://181.224.255.210:8001/play/a0ou/index.m3u8
-#EXTINF:-1 tvg-chno=334 group-title="-",UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-chno=334 group-title="-",UNIVERSAL CHANNEL
 http://181.224.255.210:8001/play/a0lp/index.m3u8
-#EXTINF:-1 tvg-chno=335 group-title="-",UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-chno=335 group-title="-",UNIVERSAL CHANNEL
 http://190.238.43.117:9000/play/a0ff/index.m3u8
 #EXTINF:-1 tvg-chno=336 group-title="-",UNIVISION HD
 http://190.238.43.117:9000/play/a0i3/index.m3u8
@@ -567,9 +558,9 @@ http://181.224.255.210:8001/play/a0qt/index.m3u8
 #EXTINF:-1 tvg-chno=340 group-title="-",VE PLUS
 http://190.238.43.117:9000/play/a0ix/index.m3u8
 
-#EXTINF:-1 tvg-chno=344 group-title="-",Warner TV HD
+#EXTINF:-1 tvg-chno=344 group-title="-",Warner TV tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/WarnerChannelLatAm2026.svg/revision/latest?cb=20261004014608"
 http://190.238.43.117:9000/play/a0gq/index.m3u8
-#EXTINF:-1 tvg-chno=345 group-title="-",Warner TV HD
+#EXTINF:-1 tvg-chno=345 group-title="-",Warner TV
 http://181.224.255.210:8001/play/a0od/index.m3u8
 #EXTINF:-1 tvg-chno=346 group-title="-",West HD
 http://190.238.43.117:9000/play/a0is/index.m3u8
@@ -579,7 +570,7 @@ http://181.224.255.210:8001/play/a0rq/index.m3u8
 http://190.238.43.117:9000/play/a0e8/index.m3u8
 #EXTINF:-1 tvg-chno=349 group-title="-",Willax
 http://181.224.255.210:8001/play/a0sp/index.m3u8
-#EXTINF:-1 tvg-chno=350 group-title="-",1.2 - WILLAX HD
+#EXTINF:-1 tvg-chno=350 group-title="-",1.2 - WILLAX
 http://181.224.255.210:8001/play/a0s7/index.m3u8
 #EXTINF:-1 tvg-chno=351 group-title="-",ZooMoo
 http://190.238.43.117:9000/play/a0i8/index.m3u8
